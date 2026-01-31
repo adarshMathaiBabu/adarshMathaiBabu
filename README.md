@@ -43,12 +43,8 @@ Backend Java Engineer with 3+ years scaling enterprise systems (Java, Spring Boo
 
 ## 🌐 Connect with Me
 <a href="mailto:adarshbabu207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/adarshbabu207"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/adarshMathaiBabu"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 
 **🇮🇳 Indian in Magdeburg, Germany | English C1 | German B1**  
-*Coffee & Code enthusiast ☕💻* [file:1]
 
----
-
-⭐ Star this repo if it helps! Thanks for visiting 🚀
