@@ -17,22 +17,22 @@ Backend Java Engineer with 3+ years scaling enterprise systems (Java, Spring Boo
 **Backend:** Spring Boot/Security/AI, FastAPI, NestJS, Node.js, LangChain  
 **Databases:** MS SQL, PostgreSQL, MySQL, MongoDB, Hibernate  
 **DevOps:** AWS (EC2,S3,RDS), Docker, CI/CD, Jira, Git  
-**Frontend:** React, Angular, TailwindCSS[file:1]
+**Frontend:** React, Angular, TailwindCSS
 
 ## 💼 Professional Experience
 | Role | Company | Duration | Key Impact |
 |------|---------|----------|------------|
-| Software Engineer | Newgen Software (Al Rajhi Bank) | 07/2022–07/2024 | Scaled Personal Finance to 1M+ loans via query optimization; Delivered Campaign Mgmt module.[file:1] |
-| Software Engineer Intern | Newgen Software | 04/2022–06/2022 | Built React dashboards for NewgenONE workflows.[file:1] |
-| Industrial Intern | Festo | 06/2021–07/2021 | PLC robot programming in CIROS/CODESYS.[file:1] |
+| Software Engineer | Newgen Software (Al Rajhi Bank) | 07/2022–07/2024 | Scaled Personal Finance to 1M+ loans via query optimization; Delivered Campaign Mgmt module.|
+| Software Engineer Intern | Newgen Software | 04/2022–06/2022 | Built React dashboards for NewgenONE workflows. |
+| Industrial Intern | Festo | 06/2021–07/2021 | PLC robot programming in CIROS/CODESYS. |
 
 ## 🎓 Education
-- **Master's in Digital Engineering** (1.7) – Otto von Guericke University Magdeburg (10/2024–Present): AI/ML, Distributed Systems, NLP.[file:1]
-- **B.E. Mechanical & Automation Eng** (1.66) – Guru Gobind Singh Indraprastha Univ (2018–2022).[file:1]
+- **Master's in Digital Engineering** (1.7) – Otto von Guericke University Magdeburg (10/2024–Present): AI/ML, Distributed Systems, NLP.
+- **B.E. Mechanical & Automation Eng** (1.66) – Guru Gobind Singh Indraprastha Univ (2018–2022).
 
 ## 🔥 Featured Projects
-- **[AI Powered Project Management System](https://github.com/yourusername/project-link)** (Ongoing): Agentic AI for tasks/risks with NestJS, FastAPI, OpenAI GPT-4, PostgreSQL.[file:1]
-- **[Rephrase.AI](https://github.com/yourusername/rephrase-ai)**: Real-time rephrasing for Slack/Teams using FastAPI, OpenAI, Node.js.[file:1]
+- **[AI Powered Project Management System](https://github.com/yourusername/project-link)** (Ongoing): Agentic AI for tasks/risks with NestJS, FastAPI, OpenAI GPT-4, PostgreSQL.
+- **[Rephrase.AI](https://github.com/yourusername/rephrase-ai)**: Real-time rephrasing for Slack/Teams using FastAPI, OpenAI, Node.js.
 
 ## 🌐 Connect with Me
 <a href="mailto:adarshbabu207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
