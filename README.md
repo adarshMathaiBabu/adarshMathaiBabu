@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/your-github-username?size=200" alt="Adarsh Mathai Babu" width="200"/>
   <h1>Hi 👋, I'm Adarsh Mathai Babu</h1>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=green" alt="Visitor Count"/>
 </div>
 
 Backend Java Engineer with 3+ years scaling enterprise systems (Java, Spring Boot, MS SQL, AWS) in Agile environments—optimized queries for 1M+ loan apps and delivered production modules at Newgen Software (Al Rajhi Bank). Currently pursuing Master's in Digital Engineering (AI/ML focus) at Otto von Guericke University; building AI projects like agentic PM tools (NestJS, FastAPI, OpenAI). Seeking part/full-time SaaS backend roles in food & beverage! 🚀 Magdeburg-based.[file:1]
