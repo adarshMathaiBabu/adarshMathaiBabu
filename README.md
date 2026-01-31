@@ -34,13 +34,6 @@ Backend Java Engineer with 3+ years scaling enterprise systems (Java, Spring Boo
 - **[AI Powered Project Management System](https://github.com/yourusername/project-link)** (Ongoing): Agentic AI for tasks/risks with NestJS, FastAPI, OpenAI GPT-4, PostgreSQL.[file:1]
 - **[Rephrase.AI](https://github.com/yourusername/rephrase-ai)**: Real-time rephrasing for Slack/Teams using FastAPI, OpenAI, Node.js.[file:1]
 
-## 📊 GitHub Stats
-<div align="center">
-  ![Metrics](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
-</div>
-
 ## 🌐 Connect with Me
 <a href="mailto:adarshbabu207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/adarshbabu207"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
