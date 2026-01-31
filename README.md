@@ -3,8 +3,7 @@
   <h1>Hi 👋, I'm Adarsh Mathai Babu</h1>
 </div>
 
-Backend Java Engineer with 3+ years scaling enterprise systems (Java, Spring Boot, MS SQL, AWS) in Agile environments—optimized queries for 1M+ loan apps and delivered production modules at Newgen Software (Al Rajhi Bank). Currently pursuing Master's in Digital Engineering (AI/ML focus) at Otto von Guericke University; building AI projects like agentic PM tools (NestJS, FastAPI, OpenAI). Seeking part/full-time SaaS backend roles in food & beverage! 🚀 Magdeburg-based.[file:1]
-
+Backend Java Engineer with 3+ years scaling enterprise systems (Java, Spring Boot, MS SQL, AWS) in Agile environments—optimized queries for 1M+ loan apps and delivered production modules at Newgen Software (Al Rajhi Bank). Currently pursuing Master's in Digital Engineering (AI/ML focus) at Otto von Guericke University; building AI projects like agentic PM tools (NestJS, FastAPI, OpenAI). Seeking part/full-time SaaS backend roles.
 ## 🛠️ Tech Stack & Skills
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
